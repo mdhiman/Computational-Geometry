@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" >
+<line x1="200" y1="500" x2="80" y2="400" stroke="red" stroke-width="2" />
+<circle cx="200" cy="500" r="1" stroke="red" stroke-width="4" fill="red" />
+<line x1="80" y1="400" x2="100" y2="80" stroke="red" stroke-width="2" />
+<circle cx="80" cy="400" r="1" stroke="red" stroke-width="4" fill="red" />
+<line x1="100" y1="80" x2="160" y2="150" stroke="red" stroke-width="2" />
+<circle cx="100" cy="80" r="1" stroke="red" stroke-width="4" fill="red" />
+<line x1="160" y1="150" x2="300" y2="40" stroke="red" stroke-width="2" />
+<circle cx="160" cy="150" r="1" stroke="red" stroke-width="4" fill="red" />
+<line x1="300" y1="40" x2="400" y2="350" stroke="red" stroke-width="2" />
+<circle cx="300" cy="40" r="1" stroke="red" stroke-width="4" fill="red" />
+<line x1="400" y1="350" x2="280" y2="300" stroke="red" stroke-width="2" />
+<circle cx="400" cy="350" r="1" stroke="red" stroke-width="4" fill="red" />
+<line x1="280" y1="300" x2="200" y2="500" stroke="red" stroke-width="2" />
+<circle cx="280" cy="300" r="1" stroke="red" stroke-width="4" fill="red" />
+<line x1="160" y1="150" x2="280" y2="300" stroke="grey" stroke-width="2" /><line x1="280" y1="300" x2="80" y2="400" stroke="grey" stroke-width="2" /><line x1="160" y1="150" x2="80" y2="400" stroke="grey" stroke-width="2" /><line x1="160" y1="150" x2="400" y2="350" stroke="grey" stroke-width="2" /><circle cx="80" cy="400" r="2" stroke="blue" stroke-width="4" fill="blue" />
+<circle cx="280" cy="300" r="2" stroke="green" stroke-width="4" fill="green" />
+<circle cx="200" cy="500" r="2" stroke="black" stroke-width="4" fill="black" />
+<circle cx="160" cy="150" r="2" stroke="black" stroke-width="4" fill="black" />
+<circle cx="400" cy="350" r="2" stroke="blue" stroke-width="4" fill="blue" />
+<circle cx="300" cy="40" r="2" stroke="green" stroke-width="4" fill="green" />
+<circle cx="100" cy="80" r="2" stroke="green" stroke-width="4" fill="green" />
+<a><text x="10" y="25">Place camera on Blue Vertexs.</text></a>
+</svg>
